@@ -1,7 +1,7 @@
 # AplikasiPengelolaanKontak_Lat3
  Ghina Nafsi-2210010324
 # 1. Deskripsi Program
-Aplikasi ini memungkinkan pengguna untuk:
+Aplikasi ini memungkinkan pengguna untuk
 
 * Aplikasi menyimpan informasi kontak seperti nama, nomor telepon, dan kategori kontak ke dalam database SQLite.
 
